@@ -4,6 +4,7 @@
 	"website_url": "https://github.com/SylmarDev/VoidCritVineBoom",
 	"description": "Funny Vine Boom on Lost Seers Lenses Proc",
 	"dependencies": [
-		"RiskofThunder-R2API_Sound-1.0.3"
+		"RiskofThunder-R2API_Sound-1.0.3",
+		"RiskofThunder-R2API_Prefab-1.0.4"
 	]
 }
